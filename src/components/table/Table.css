@@ -1,0 +1,13 @@
+div.table_div{
+    margin: auto;
+    margin-top:0;
+    font-size: 1.5rem;
+}
+
+div.table_div>table {
+    border-collapse: collapse;
+}
+
+div.table_div >table,div.table_div th,div.table_div td {
+    border: 1px solid black;
+}

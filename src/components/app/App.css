@@ -1,0 +1,20 @@
+div.App{
+  height: 100%;
+}
+
+div.app_body{
+  display: flex;
+  text-align: center;
+}
+
+div.app_body > div{
+  display: flex;
+  flex-grow: 1;
+  text-align: center;
+}
+
+
+
+
+
+

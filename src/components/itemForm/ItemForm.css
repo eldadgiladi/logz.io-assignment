@@ -1,0 +1,33 @@
+div.item_form_container{
+    display: flex;
+    flex-direction: column;
+}
+div.item_form_container>div{
+    text-align: center;
+    margin: 1rem
+}
+div.item_form_container>div input{
+    height: 2rem;
+    padding: 1rem;
+    font-size: 1.5rem;
+    border: none;
+    border-bottom: 1px solid grey;
+    outline: none;
+}
+input.item_name{
+    width: 20rem;
+
+}
+input.item_price{
+    width:14rem;
+
+}
+input.item_quantity{
+    width:4rem;
+}
+button.submit_item_btn{
+    width:11rem ;
+    height: 2rem;
+    font-size: 1.5rem
+}
+
